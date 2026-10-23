@@ -1,0 +1,32 @@
+{
+  "replacement_rules": [
+    {
+      "name": "Profile 1",
+      "replace_ids": [
+        70494501482896
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/blckmango/Bat-Horn/refs/heads/main/Bat%20Horn1%201.obj"
+    },
+    {
+      "name": "Profile 2",
+      "replace_ids": [
+        70528849669897
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/blckmango/Bat-Horn/refs/heads/main/Bat%20Horn2%201.obj"
+    },
+    {
+      "name": "Profile 3",
+      "replace_ids": [
+        104600246515190,
+        97997387092919
+      ],
+      "mode": "local",
+      "enabled": true,
+      "local_path": "C:/mesh/Bat Horn.png"
+    }
+  ]
+}
